@@ -11,7 +11,7 @@ IF YOU ARE NERVOUS ABOUT ALL OF THIS, DON'T BE!
 
 THE ONLY PART OF THIS THAT I HAVE EVER HAD TO WORRY ABOUT IS HOW TO FASTEN AND RELEASE MY SEATBELT.
 
-The following script is excerpted from https://airodyssey.net/reference/inflight/ . Commentary is mine.
+The following script is excerpted from [https://airodyssey.net/reference/inflight/](https://airodyssey.net/reference/inflight/). Commentary is mine.
 
 **INTRODUCTION**
 
@@ -97,3 +97,6 @@ There should be a safety information card in a pocket on the back of every seat.
 "If you have any questions, please don’t hesitate to ask one of our crew members. We wish you all an enjoyable flight.”
 
 If you have a question, ask a flight attendant.
+
+
+As they do this, the airplane will start taxiing to the runway. Soon, you'll be [ready for takeoff!](/takeoff/)

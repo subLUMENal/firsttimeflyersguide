@@ -12,3 +12,5 @@ After that, take a quick look and see if they have a departure gate or terminal 
 Clean your house. The only thing worse than cleaning your house before you leave is coming home to a dirty house and having to clean it.
 
 Charge your phone, make sure your bags are packed, and you have your ID.
+
+[Then head to the airport!](/travel/)

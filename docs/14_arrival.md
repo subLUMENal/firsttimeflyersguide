@@ -30,3 +30,5 @@ When it's your turn, an agent will ask to see your passport and the customs form
 
 If they ask if you have anything to declare, the correct answer is "I only have personal items for myself."
 
+Now that you've collected all your stuff, [it's time to leave the airport!](/leaving/)
+

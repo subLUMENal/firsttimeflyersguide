@@ -36,3 +36,5 @@ Once that is all done, go to the conveyor belt and get your bags and things you 
 Repack your bags and recombobulate yourself.
 
 Congratulations! You made it through security!
+
+[You should have some time to hang out at the airport now.](/airport/)

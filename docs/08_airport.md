@@ -20,3 +20,5 @@ In the EU, they will often wait until 45-90 minutes before the flight to announc
 Most airlines start letting passengers on 30-60 minutes before their departure time, so it's generally best to be at your gate around an hour before your flight.
 
 For many international flights, there will be another security checkpoint before you get to your gate. Get ready to take off your shoes again.
+
+Now that you're at your gate, it's [time to get on the plane!](/boarding/)

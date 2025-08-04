@@ -2,7 +2,7 @@
 
 layout: page
 title: Getting on the Plane
-permalink: /departures/
+permalink: /boarding/
 ---
 
 You've made it to your gate! Now it's time for more waiting in line. This might take a while.
@@ -36,3 +36,5 @@ You are now boarded and seated!
 Before the flight leavs, the flight attendants will make at least one announcement welcoming everyone on board and announcing what city they will be flying to. (They don't want to send you to the wrong city!)
 
 They will also make an announcement about turning off and stowing larger electronic devices. The general rule of thumb is that if the device is designed to be operated with one hand, you can leave it on, but in airplane mode. So you can keep playing on your phone, reading your Kindle, or listenig to the latest jams on your Zune as long as it's in airplane mode. That means no cell connections. Keep your laptop in your backpack for now.
+
+After that, they will make a [safety announcement.](/safety/)

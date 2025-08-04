@@ -15,4 +15,4 @@ Wait in line. This might take a while.
 
 After the line, you'll get to the check in desk! The airline employee WILL ask to see your ID and MIGHT ask you to scan some information from their app. They WILL ask you to confirm where you're going! (They don't want to send you to the wrong city!) They WILL ask if you are bringing any dangerous items with you. They will also check in your check-in bags. Make sure anything you need during the flight is out of those bags before you hand them over. The next time you see them will be after you get to your destination!
 
-After that, the check in agent will point you to Security!
+After that, [the check in agent will point you to Security!](/security/)

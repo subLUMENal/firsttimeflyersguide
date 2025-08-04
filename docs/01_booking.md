@@ -22,3 +22,5 @@ One thing I would recommend to almost all first time flyers is to try to book a 
 Tall people might want an aisle seat instead of a window seat, because there is the feeling of a little more leg room. I'm 5'8", and the leg room has never bothered me in the window seat, but your mileage may vary.
 
 Avoid booking the middle seat if you can.
+
+Now that you have your flight booked, time to start [preparing for your trip!](/preparing/)!

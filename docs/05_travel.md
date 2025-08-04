@@ -21,3 +21,5 @@ If your airport has multiple terminals, make sure you're going to the correct on
 If you're driving yourself, make sure you know where to park. Most airports have short-term parking (for dropping people off) and long-term parking (for leaving your car for a few days). If you're going to be gone for more than a few days, it's usually cheaper to park in the long-term lot. Some airports also have shuttles that will take you from the long-term lot to the terminal.
 
 If a friend is dropping you off at the airport, they are not allowed to park right at the curb and accompany you inside. They can either drop you off at the curb, or park in a nearby lot and accompany you in until you get to the security checkpoint. But they can't go past that point without a ticket.
+
+Now that you're at the airport, it's time to [check your bags in.](/checkin/) If you have a carry-on and a personal item, you can [skip this step and go right to security](/security/) but if you have checked bags, you'll need to go to the airline's check-in counter.

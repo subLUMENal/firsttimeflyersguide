@@ -18,3 +18,6 @@ If you are bringing both a carry-on and a personal item, make sure you can lift 
 For longer flights, you might want to bring a pair of wired headphones, in case the airplane has an in-flight entertainment system (more on that later). Some airplanes are starting to allow Bluetooth headsets, but those are few and far between at the moment.
 
 You might want to put a light jacket in your carry-on bag. Airports and airplanes can sometimes get cold, even in the summer.
+
+Hopefully, you're mostly packed by [the day before your flight](/before/). If not, you should be finishing up your packing then.
+    

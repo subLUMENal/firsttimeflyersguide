@@ -6,7 +6,6 @@ permalink: /takeoff/
 
 ---
 
-**Takeoff**
 Before the airplane takes off, it might have to wait in line. This might take a while.
 
 At some point before takeoff, they may dim the overhead lights to give people a chance to nap.
@@ -29,3 +28,4 @@ About 5 minutes after takeoff, there will be an annoucement that you are now abo
 
 About 20-30 minutes after takeoff, they will turn off the seatbelt sign. This means that if you need to get up, you can. But please keep your seatbelt fastened if you're going to be in your seat. Sometimes the ride can get just a bit bumpy, and you don't want to hit your head on the ceiling.
 
+[Sit back, relax, and enjoy the flight!](/inflight/)
