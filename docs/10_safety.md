@@ -25,16 +25,19 @@ This is all so that in the event that something goes wrong, everyone can get out
 
 Your seat probably is not in an exit row.
 
-Federal regulations require that a Customer select a non-exit seat if they can't or don't want to perform the following functions:
+Federal regulations do not allow a customer to sit in an exit row if they can't or don't want to perform the following:
 
-1) Locate the emergency exit
-2) Recognize the emergency exit opening mechanism
-3) Understand how to operate the emergency exit
-4) Able to operate the emergency exit
-5) Assess whether opening the emergency exit will increase the hazards to which passengers may be exposed • Follow oral directions and hand signals given by a Crewmember
-6) Stow and secure the emergency exit window so that it will not impede use of the exit
-7) Move quickly through the emergency exit
-8) Assess, select, and follow a safe path away from the emergency exit
+- Be at least 16 years old
+- Be able to see and understand the safety information card
+- Locate the emergency exit
+- Recognize the emergency exit opening mechanism
+- Understand how to operate the emergency exit
+- Be able to operate the emergency exit
+- Assess whether opening the emergency exit will increase the hazards to which passengers may be exposed
+- Follow oral directions and hand signals given by a Crewmember
+- Stow and secure the emergency exit window so that it will not impede use of the exit
+- Move quickly through the emergency exit
+- Assess, select, and follow a safe path away from the emergency exit
 
 Basically, if your seat is in an exit row, and you don't feel comfortable with this, talk to a flight attendant, and they will re-seat you.
 
@@ -48,7 +51,7 @@ There has been no smoking allowed on flights in the US since 1990. Don't smoke o
 
 Really. Just don't smoke on airplanes.
 
-Most airlines also do not allow vaping, e-cigarettes, marijuana, or smokeless tobacco.
+Most airlines also do not allow vaping, e-cigarettes, marijuana, or smokeless tobacco. Nicotine gum is ok on most US airlines.
 
 **QUESTIONS**
 
@@ -66,7 +69,7 @@ Seatbelts on planes are a tiny bit different than seatbelts in cars. You have to
 "There are several emergency exits on this aircraft. Please take a few moments now to locate your nearest exit. In some cases, your nearest exit may be behind you."
 Look around for the nearest emergency exit. Just be aware of where it is. You will never need to use it, but it's best to have the information and not need it.
 
-"If we need to evacuate the aircraft, floor-level lighting will guide you towards the exit. Doors can be opened by moving the handle in the direction of the arrow. Each door is equipped with an inflatable slide which may also be detached and used as a life raft. A life vest is located in a pouch under your seat or between the armrests. When instructed to do so, open the plastic pouch and remove the vest. Slip it over your head. Pass the straps around your waist and adjust at the front. To inflate the vest, pull firmly on the red cord, only when leaving the aircraft. If you need to refill the vest, blow into the mouthpieces. Use the whistle and light to attract attention. (Also, your seat bottom cushion can be used as a flotation device. Pull the cushion from the seat, slip your arms into the straps, and hug the cushion to your chest.)"
+"If we need to evacuate the aircraft, floor-level lighting will guide you towards the exit. Doors can be opened by moving the handle in the direction of the arrow. Each door is equipped with an inflatable slide which may also be detached and used as a life raft. A life vest is located in a pouch under your seat or between the armrests. When instructed to do so, open the plastic pouch and remove the vest. Slip it over your head. Pass the straps around your waist and adjust at the front. To inflate the vest, pull firmly on the red cord, only when leaving the aircraft. If you need to refill the vest, blow into the mouthpieces. Use the whistle and light to attract attention. (Also, your seat bottom cushion can be used as a flotation device. Pull the cushion from the seat, slip your arms into the straps, and hug the cushion to your chest.) In the event of an evacuation, leave all personal items behind and proceed to the nearest exit."
 
 There have been less than 50 passenger airplanes ever that needed to use life rafts or life vests. But every airplane has them available, just in case.
 
@@ -98,5 +101,7 @@ There should be a safety information card in a pocket on the back of every seat.
 
 If you have a question, ask a flight attendant.
 
+
+<iframe width="996" height="560" src="https://www.youtube.com/embed/Eegexv3Qk8A" title="Air Mauritius Flight Safety Video 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 As they do this, the airplane will start taxiing to the runway. Soon, you'll be [ready for takeoff!](/takeoff/)

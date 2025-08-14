@@ -5,7 +5,7 @@ title: In the Airport
 permalink: /airport/
 ---
 
-Once you're through security, you should have some time to hang out at the airport. There will almost always be food, drink, and souvenier options.
+Once you're through security, you should have some time to hang out at the airport. There will almost always be food, drink, and souvenier options. If you've brought an empty water bottle through security, you can fill it up at a water fountain or a water bottle filling station.
 
 Please keep your bags with you at all times. If you leave your bags unattended, they will probably be taken away by airport security.
 
